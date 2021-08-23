@@ -1,0 +1,24 @@
+{
+  "name": "leetcode-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init-task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/osamaesmail/leetcode-readme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/osamaesmail/leetcode-readme/issues"
+  },
+  "homepage": "https://gitlab.com/osamaesmail/leetcode-readme#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.2.0",
+    "turndown": "^7.1.1"
+  }
+}
