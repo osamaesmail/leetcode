@@ -11,7 +11,7 @@ class HtmlNode {
     }
 
     getDifficulty() {
-        return this.$('[diff="easy"]').text();
+        return this.$('[diff]').text();
     }
 
     getQuestionHtml() {
